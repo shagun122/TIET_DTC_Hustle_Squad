@@ -1,0 +1,8 @@
+Flask
+numpy
+pandas
+pillow
+python-dotenv
+tensorflow
+scikit-learn
+flask
