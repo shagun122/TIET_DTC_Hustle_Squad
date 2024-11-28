@@ -26,7 +26,7 @@ A fashion recommendation system designed to suggest clothing items based on user
 * Machine Learning Integration: Uses collaborative filtering, content-based filtering, or hybrid models to improve recommendation accuracy.
 * User Interface: A simple and interactive web interface that allows users to input their preferences and view personalized clothing recommendations.
   
-How It Works:
+## How It Works:
 * The user interacts with the web app frontend to provide preferences or upload images.
 * The Flask backend processes these inputs, sends them to the machine learning model for prediction, and returns the recommended items.
 * The recommender system uses various algorithms, including content-based and collaborative filtering, to suggest items that best match the user's input.
